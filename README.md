@@ -6,7 +6,7 @@ In the project directory, you can run:
 ### npm install
 ### npm start
 
-=================================================================================
+======================================================================
 commerce FreshCart App (React.js)
 SPA & Routing using react router
 Guard to some components
